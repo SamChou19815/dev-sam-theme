@@ -18,5 +18,9 @@
       }
     ]
   },
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "publisher": "dev-sam",
+  "repository": {
+    "url": "https://github.com/SamChou19815/dev-sam-theme"
+  }
 }
