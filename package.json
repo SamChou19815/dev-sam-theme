@@ -1,0 +1,22 @@
+{
+  "name": "dev-sam-theme",
+  "displayName": "Developer Sam Theme",
+  "description": "Developer Sam Theme based on Atom One Light",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Developer Sam Theme",
+        "uiTheme": "vs",
+        "path": "./themes/dev-sam-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png"
+}
