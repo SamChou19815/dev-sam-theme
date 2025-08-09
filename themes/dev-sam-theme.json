@@ -2,6 +2,7 @@
   "$schema": "vscode://schemas/color-theme",
   "type": "light",
   "name": "Developer Sam Theme",
+  "semanticHighlighting": true,
   "colors": {
     "activityBar.background": "#F7F7F7",
     "activityBar.foreground": "#38484F",
