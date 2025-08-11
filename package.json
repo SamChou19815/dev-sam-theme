@@ -2,7 +2,7 @@
   "name": "dev-sam-theme",
   "displayName": "Developer Sam Theme",
   "description": "Developer Sam Theme based on Atom One Light",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.12.0"
   },
